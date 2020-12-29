@@ -13,7 +13,7 @@ import {Route , Switch} from 'react-router-dom';
 
 function App() {
   return (
-    <>
+    <>     
     <Navbar/>
     <Switch>
      <Route component={Home} />
