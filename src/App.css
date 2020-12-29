@@ -159,7 +159,7 @@
   .defaultHero,
   .roomsHero {
     min-height: calc(100vh - 66px);
-    background-image: url("./images/room-2.jpeg");
+    background-image: url("https://github.com/shamswazir/room_booking/blob/main/src/images/defaultBcg.jpeg");
     background: center/cover no-repeat;
     display: flex;
     align-items: center;
