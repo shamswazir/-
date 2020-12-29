@@ -4,10 +4,10 @@ function Hero({children,hero}){
         {children}
     </header>
 }
-/*
+
 Hero.defaultProps = {
     hero:"defaultHero"
 };
-*/
+
 
 export default Hero;
